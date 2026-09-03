@@ -5,3 +5,7 @@ Some fixes I have planned:
 1. The matrix needs to use less microcontroller pins to make room for the LED indicators as well as the crystal oscillator circuit
 2. There are two mounting columns that secure the PCB to the keyboard case, which I will need to add holes for
 3. Either a daughterboard for the usb-c receptacle, or make sure the usb-c receptacle has proper spacing for a cable to be fixed
+
+
+9/2/2026
+I have completely redone the schematic and pcb. I squared the matrix making more room for the indicator LEDs, the matrix now takes 22 pins instead of . I believe there are a few more GPIO pins as well.
