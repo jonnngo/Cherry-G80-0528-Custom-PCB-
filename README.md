@@ -8,4 +8,11 @@ Some fixes I have planned:
 
 
 9/2/2026
-I have completely redone the schematic and pcb. I squared the matrix making more room for the indicator LEDs, the matrix now takes 22 pins instead of . I believe there are a few more GPIO pins as well.
+I have completely redone the schematic and pcb. I squared the matrix making more room for the indicator LEDs, the matrix now takes 22 pins instead of 28. The "forehead" is much smaller now, so there should be no problems with fixing a cable to the board and fitting in the original case.
+1. Still need to add the 2 mounting holes
+2. still need to actually connect the +3.3V pins as well as the ground pins to a ground plane.
+
+<img width="1030" height="807" alt="image" src="https://github.com/user-attachments/assets/e9a1c249-ccbe-4d96-94d1-f4598d74dfe8" />
+<img width="1520" height="580" alt="image" src="https://github.com/user-attachments/assets/16a651a0-0285-4202-b29a-68d092e92ef3" />
+<img width="1600" height="597" alt="image" src="https://github.com/user-attachments/assets/0bf307d1-2b9b-48e9-9e20-1289310e7c53" />
+
