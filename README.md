@@ -8,7 +8,7 @@ Some fixes I have planned:
 
 
 9/2/2026
-I have completely redone the schematic and pcb. I squared the matrix making more room for the indicator LEDs, the matrix now takes 22 pins instead of 28. The "forehead" is much smaller now, so there should be no problems with fixing a cable to the board and fitting in the original case.
+I have completely redone the schematic and pcb. I squared the matrix making more room for the indicator LEDs, the matrix now takes 22 pins instead of 28. The traces for the columns and rows a little messier now because of this. The "forehead" is much smaller now, so there should be no problems with fixing a cable to the board and fitting in the original case.
 1. Still need to add the 2 mounting holes
 2. connect the +3.3V pins
 3. connect ground pins to the ground planes
